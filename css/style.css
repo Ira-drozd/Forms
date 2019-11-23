@@ -1,0 +1,23 @@
+body{
+    background: #c2e3ff;
+}
+.col-md-12{
+     background: #0f6674;
+ }
+
+.my-flex{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+#image-submit{
+    border-radius: 100px;
+    text-align: center;
+}
+.my-nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
